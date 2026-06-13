@@ -37,12 +37,15 @@
 <!-- Changes Background Color of Site Based on System Theme -->
 <style>
   
-  body {
-    background-color: #FFD7CCC8;
+
+  @media (prefers-color-scheme: light) {
+    body {
+      background-color: rgb(215, 204, 200);
+    }
   }
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #FF1B2327;
+      background-color: rgb(27, 35, 39);
     }
   }
 </style>
