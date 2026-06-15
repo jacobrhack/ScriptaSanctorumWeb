@@ -82,7 +82,7 @@
     "isClergy": true,
     "isChurchDoctor": true,
     "isPope": false,
-    "bio": "St. Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy. \n \n source: en.wikipedia.org/wiki/Thomas_Aquinas",
+    "bio": "St. Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy.\n\nsource: en.wikipedia.org/wiki/Thomas_Aquinas",
     "prayer": "",
     "traditionalFeast": "7-Mar",
     "modernFeast": "28-Jan",
