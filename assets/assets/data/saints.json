@@ -14,8 +14,18 @@
     "prayer": "",
     "traditionalFeast": "12-Mar",
     "modernFeast": "3-Sep",
-    "newAdventLink": "https://www.newadvent.org/cathen/06780a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/06780a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Ambrose",
@@ -32,8 +42,18 @@
     "prayer": "",
     "traditionalFeast": "7-Dec",
     "modernFeast": "7-Dec",
-    "newAdventLink": "https://www.newadvent.org/cathen/01383c.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Ambrose"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/01383c.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ambrose",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Augustine of Hippo",
@@ -50,8 +70,18 @@
     "prayer": "",
     "traditionalFeast": "28-Aug",
     "modernFeast": "28-Aug",
-    "newAdventLink": "https://www.newadvent.org/cathen/02084a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02084a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Jerome",
@@ -68,8 +98,18 @@
     "prayer": "",
     "traditionalFeast": "30-Sep",
     "modernFeast": "30-Sep",
-    "newAdventLink": "https://www.newadvent.org/cathen/08341a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Jerome"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08341a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jerome",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Thomas Aquinas",
@@ -86,8 +126,23 @@
     "prayer": "",
     "traditionalFeast": "7-Mar",
     "modernFeast": "28-Jan",
-    "newAdventLink": "https://www.newadvent.org/cathen/14663b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/14663b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      },
+      {
+        "title": "Thomistic Institute",
+        "url": "https://thomisticinstitute.org/",
+        "imageUrl": "assets/images/thomistic_institute_logo.png"
+      }
+    ]
   },
   {
     "name": "St. John Chrysostom",
@@ -104,8 +159,18 @@
     "prayer": "",
     "traditionalFeast": "27-Jan",
     "modernFeast": "13-Sep",
-    "newAdventLink": "https://www.newadvent.org/cathen/08452b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/John_Chrysostom"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08452b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Chrysostom",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Basil the Great",
@@ -122,8 +187,18 @@
     "prayer": "",
     "traditionalFeast": "14-Jun",
     "modernFeast": "2-Jan",
-    "newAdventLink": "https://www.newadvent.org/cathen/02330b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02330b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Basil_of_Caesarea",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Gregory of Nazianzus",
@@ -140,8 +215,18 @@
     "prayer": "",
     "traditionalFeast": "9-May",
     "modernFeast": "2-Jan",
-    "newAdventLink": "https://www.newadvent.org/cathen/07010b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/07010b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Athanasius",
@@ -158,8 +243,18 @@
     "prayer": "",
     "traditionalFeast": "2-May",
     "modernFeast": "2-May",
-    "newAdventLink": "https://www.newadvent.org/cathen/02035a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02035a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Bonaventure",
@@ -176,8 +271,18 @@
     "prayer": "",
     "traditionalFeast": "14-Jul",
     "modernFeast": "15-Jul",
-    "newAdventLink": "https://www.newadvent.org/cathen/02648c.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Bonaventure"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02648c.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bonaventure",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Anselm of Canterbury",
@@ -194,8 +299,18 @@
     "prayer": "",
     "traditionalFeast": "21-Apr",
     "modernFeast": "21-Apr",
-    "newAdventLink": "https://www.newadvent.org/cathen/01546a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/01546a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Isidore of Seville",
@@ -212,8 +327,18 @@
     "prayer": "",
     "traditionalFeast": "4-Apr",
     "modernFeast": "4-Apr",
-    "newAdventLink": "https://www.newadvent.org/cathen/08186a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08186a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isidore_of_Seville",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Peter Chrysologus",
@@ -230,8 +355,18 @@
     "prayer": "",
     "traditionalFeast": "4-Dec",
     "modernFeast": "4-Dec",
-    "newAdventLink": "https://www.newadvent.org/cathen/11762c.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Chrysologus"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/11762c.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Chrysologus",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Leo the Great",
@@ -248,8 +383,18 @@
     "prayer": "",
     "traditionalFeast": "11-Apr",
     "modernFeast": "10-Nov",
-    "newAdventLink": "https://www.newadvent.org/cathen/09154b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/09154b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pope_Leo_I",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Peter Damian",
@@ -266,8 +411,18 @@
     "prayer": "",
     "traditionalFeast": "23-Feb",
     "modernFeast": "21-Feb",
-    "newAdventLink": "https://www.newadvent.org/cathen/11764a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Damian"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/11764a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Damian",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Bernard of Clairvaux",
@@ -284,8 +439,18 @@
     "prayer": "",
     "traditionalFeast": "20-Aug",
     "modernFeast": "20-Aug",
-    "newAdventLink": "https://www.newadvent.org/cathen/02498d.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02498d.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Hilary of Poitiers",
@@ -302,8 +467,18 @@
     "prayer": "",
     "traditionalFeast": "14-Jan",
     "modernFeast": "13-Jan",
-    "newAdventLink": "https://www.newadvent.org/cathen/07349b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/07349b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Alphonsus Liguori",
@@ -320,8 +495,18 @@
     "prayer": "",
     "traditionalFeast": "2-Aug",
     "modernFeast": "1-Aug",
-    "newAdventLink": "https://www.newadvent.org/cathen/01334a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/01334a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alphonsus_Liguori",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Francis de Sales",
@@ -338,8 +523,18 @@
     "prayer": "",
     "traditionalFeast": "29-Jan",
     "modernFeast": "24-Jan",
-    "newAdventLink": "https://www.newadvent.org/cathen/06220a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/06220a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Francis_de_Sales",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Cyril of Alexandria",
@@ -356,8 +551,18 @@
     "prayer": "",
     "traditionalFeast": "9-Feb",
     "modernFeast": "27-Jun",
-    "newAdventLink": "https://www.newadvent.org/cathen/04592b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/04592b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Cyril of Jerusalem",
@@ -374,8 +579,18 @@
     "prayer": "",
     "traditionalFeast": "18-Mar",
     "modernFeast": "18-Mar",
-    "newAdventLink": "https://www.newadvent.org/cathen/04595b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/04595b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. John Damascene",
@@ -392,8 +607,18 @@
     "prayer": "",
     "traditionalFeast": "27-Mar",
     "modernFeast": "27-Mar",
-    "newAdventLink": "https://www.newadvent.org/cathen/08459b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08459b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_of_Damascus",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Bede the Venerable",
@@ -410,8 +635,18 @@
     "prayer": "",
     "traditionalFeast": "27-May",
     "modernFeast": "25-May",
-    "newAdventLink": "https://www.newadvent.org/cathen/02384a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Bede"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02384a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bede",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Ephrem",
@@ -428,8 +663,18 @@
     "prayer": "",
     "traditionalFeast": "1-Feb",
     "modernFeast": "1-Feb",
-    "newAdventLink": "https://www.newadvent.org/cathen/05498a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/05498a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Peter Canisius",
@@ -446,8 +691,18 @@
     "prayer": "",
     "traditionalFeast": "27-Apr",
     "modernFeast": "27-Apr",
-    "newAdventLink": "https://www.newadvent.org/cathen/11756c.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Peter_Canisius"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/11756c.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Canisius",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. John of the Cross",
@@ -464,8 +719,18 @@
     "prayer": "",
     "traditionalFeast": "24-Nov",
     "modernFeast": "14-Dec",
-    "newAdventLink": "https://www.newadvent.org/cathen/08480a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08480a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Robert Bellarmine",
@@ -482,8 +747,18 @@
     "prayer": "",
     "traditionalFeast": "13-May",
     "modernFeast": "17-Sep",
-    "newAdventLink": "https://www.newadvent.org/cathen/02411d.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/02411d.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Bellarmine",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Albertus Magnus",
@@ -500,8 +775,18 @@
     "prayer": "",
     "traditionalFeast": "15-Nov",
     "modernFeast": "15-Nov",
-    "newAdventLink": "https://www.newadvent.org/cathen/01264a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Albertus_Magnus"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/01264a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albertus_Magnus",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Anthony of Padua",
@@ -518,8 +803,18 @@
     "prayer": "",
     "traditionalFeast": "13-Jun",
     "modernFeast": "13-Jun",
-    "newAdventLink": "https://www.newadvent.org/cathen/01556a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/01556a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Lawrence of Brindisi",
@@ -536,8 +831,18 @@
     "prayer": "",
     "traditionalFeast": "21-Jul",
     "modernFeast": "21-Jul",
-    "newAdventLink": "https://www.newadvent.org/cathen/09359a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/09359a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Teresa of Ávila",
@@ -554,8 +859,18 @@
     "prayer": "",
     "traditionalFeast": "15-Oct",
     "modernFeast": "15-Oct",
-    "newAdventLink": "https://www.newadvent.org/cathen/14515b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/14515b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Catherine of Siena",
@@ -572,8 +887,18 @@
     "prayer": "",
     "traditionalFeast": "30-Apr",
     "modernFeast": "29-Apr",
-    "newAdventLink": "https://www.newadvent.org/cathen/03447a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/03447a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Siena",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Thérèse of Lisieux",
@@ -590,8 +915,18 @@
     "prayer": "",
     "traditionalFeast": "3-Oct",
     "modernFeast": "1-Oct",
-    "newAdventLink": "https://www.newadvent.org/cathen/17721a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/17721a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. John of Ávila",
@@ -608,8 +943,18 @@
     "prayer": "",
     "traditionalFeast": "10-May",
     "modernFeast": "10-May",
-    "newAdventLink": "https://www.newadvent.org/cathen/08469a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08469a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_of_%C3%81vila",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Hildegard of Bingen",
@@ -626,8 +971,18 @@
     "prayer": "",
     "traditionalFeast": "17-Sep",
     "modernFeast": "17-Sep",
-    "newAdventLink": "https://www.newadvent.org/cathen/07351a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/07351a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Gregory of Narek",
@@ -644,8 +999,13 @@
     "prayer": "",
     "traditionalFeast": "27-Feb",
     "modernFeast": "27-Feb",
-    "newAdventLink": "",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+    "links": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gregory_of_Narek",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. Irenaeus of Lyon",
@@ -662,8 +1022,18 @@
     "prayer": "",
     "traditionalFeast": "28-Jun",
     "modernFeast": "28-Jun",
-    "newAdventLink": "https://www.newadvent.org/cathen/08130b.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/Irenaeus"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/08130b.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Irenaeus",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      }
+    ]
   },
   {
     "name": "St. John Henry Newman",
@@ -676,11 +1046,26 @@
     "isClergy": true,
     "isChurchDoctor": true,
     "isPope": false,
-    "bio": "",
+    "bio": "Saint John Henry Newman, the 19th-century’s most important English-speaking Catholic theologian, spent the first half of his life as an Anglican and the second half as a Roman Catholic. He was a priest, popular preacher, writer, and eminent theologian in both churches.\n\nsource: https://www.franciscanmedia.org/saint-of-the-day/saint-john-henry-newman/",
     "prayer": "",
     "traditionalFeast": "9-Oct",
     "modernFeast": "9-Oct",
-    "newAdventLink": "https://www.newadvent.org/cathen/10794a.htm",
-    "wikipediaLink": "https://en.wikipedia.org/wiki/John_Henry_Newman"
+    "links": [
+      {
+        "title": "New Advent",
+        "url": "https://www.newadvent.org/cathen/10794a.htm",
+        "imageUrl": "assets/images/new_advent_logo.png"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Newman",
+        "imageUrl": "assets/images/wikipedia_logo.png"
+      },
+      {
+        "title": "Newman Studies",
+        "url": "https://newmanstudies.org/",
+        "imageUrl": "assets/images/nins_logo.png"
+      }
+    ]
   }
 ]
